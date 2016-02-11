@@ -18,6 +18,6 @@ property webhook : "WEBHOOK_URL"
 Run `osascript share-spotify-track-slack.scpt` in your terminal.
 
 Results in
-```
+
 ![alt tag](readme/result.png)
-```
+
